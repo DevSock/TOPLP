@@ -14,7 +14,7 @@ body {
 }
 
 section {
-  padding: 0px 150px;
+  padding: 0 150px;
 }
 
 #hero {
@@ -25,11 +25,13 @@ section {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-top: 20px;
 }
 
 .nav-brand {
   color: #f9faf8;
   font-size: 24px;
+  margin: 0;
 }
 
 .nav-links {
@@ -53,11 +55,11 @@ section {
 
 .container {
   display: flex;
-  padding: 100px 0;
 }
 
 #hero .container {
   gap: 50px;
+  padding: 100px 0;
 }
 
 .hero-content {
