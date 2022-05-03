@@ -98,7 +98,7 @@ section {
 }
 
 #features {
-  padding: 0 250px;
+  padding: 50px 250px;
 }
 
 #features .container {
@@ -114,7 +114,7 @@ section {
 
 .feature-header {
   text-align: center;
-  padding: 50px;
+  padding-bottom: 50px;
   margin: 0;
   color: #1f2937;
   font-size: 36px;
