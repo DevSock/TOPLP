@@ -51,9 +51,12 @@ section {
   padding: 5px 10px;
 }
 
-#hero .container {
+.container {
   display: flex;
   padding: 100px 0;
+}
+
+#hero .container {
   gap: 50px;
 }
 
