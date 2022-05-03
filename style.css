@@ -96,3 +96,40 @@ section {
   font-size: 18px;
   color: #e5e7eb;
 }
+
+#features {
+  padding: 0 250px;
+}
+
+#features .container {
+  padding: 0px;
+}
+
+.feature {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+}
+
+.feature-header {
+  text-align: center;
+  padding: 50px;
+  margin: 0;
+  color: #1f2937;
+  font-size: 36px;
+  font-weight: extra-bold;
+}
+
+.feature-img {
+  border: 3px solid cornflowerblue;
+  border-radius: 20px;
+  height: 200px;
+  width: 200px;
+}
+
+.feature-text {
+  text-align: center;
+  width: 200px;
+  font-size: 16px;
+}
