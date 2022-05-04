@@ -27,6 +27,8 @@ nav {
   align-items: center;
   padding: 20px 150px;
   background-color: #1f2937;
+  position: sticky;
+  top: 0;
 }
 
 .nav-brand {
