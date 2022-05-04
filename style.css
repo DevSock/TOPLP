@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap");
+
 * {
   /* border: 1px solid red; */
   font-family: "Roboto", sans-serif;
@@ -145,9 +147,8 @@ footer {
 .quote-text {
   text-align: left;
   font-size: 36px;
-  font-weight: lighter;
-  font-style: italic;
   color: #1f2937;
+  font-weight: 100;
 }
 
 .quote-author {
