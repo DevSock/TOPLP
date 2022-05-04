@@ -16,15 +16,17 @@ body {
 }
 
 section,
-footer {
+footer,
+nav {
   padding: 0 150px;
 }
 
-.nav {
+#nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding-top: 20px;
+  background-color: #1f2937;
 }
 
 .nav-brand {
