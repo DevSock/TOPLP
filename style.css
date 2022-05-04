@@ -157,12 +157,12 @@ footer {
 }
 
 #cta {
-  padding: 50px 150px;
+  padding: 100px 150px;
 }
 
 #cta .container {
   background-color: #3882f6;
-  border-radius: 5px;
+  border-radius: 8px;
   justify-content: space-around;
   padding: 50px;
 }
