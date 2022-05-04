@@ -25,7 +25,7 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding-top: 20px;
+  padding: 20px 150px;
   background-color: #1f2937;
 }
 
@@ -64,7 +64,7 @@ nav {
 
 #hero .container {
   gap: 50px;
-  padding: 100px 0;
+  padding: 80px 0 100px 0;
 }
 
 .hero-content {
