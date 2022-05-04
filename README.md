@@ -2,6 +2,8 @@
 
 A landing page created for TOP Foundations.
 
+View the page here: https://devsock.github.io/TOPLP/
+
 This page was created while referencing '/resources/TOPLP-Desired-Outcome.png'.
 The prompt given by The Odin Project was simply to reconstruct the website from the given image
 using the knowledge we've gained so far from the course. I took it upon myself to implement
