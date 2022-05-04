@@ -82,7 +82,7 @@ section {
   background-color: #3882f6;
   padding: 5px 25px;
   border: none;
-  border-radius: 5px;
+  border-radius: 8px;
   font-size: 18px;
   color: #e5e7eb;
   font-weight: bold;
@@ -153,4 +153,31 @@ section {
   font-size: 24px;
   font-weight: bold;
   color: #1f2937;
+}
+
+#cta {
+  padding: 50px 150px;
+}
+
+#cta .container {
+  background-color: #3882f6;
+  border-radius: 5px;
+  justify-content: space-around;
+  padding: 50px;
+}
+
+.cta-header {
+  color: #f9faf8;
+  margin: 0;
+  font-size: 18px;
+}
+
+.cta-description {
+  color: #e5e7eb;
+  margin: 0;
+}
+
+#cta .btn-signup {
+  border: 2px solid #e5e7eb;
+  align-self: center;
 }
