@@ -13,7 +13,8 @@ body {
   border: none;
 }
 
-section {
+section,
+footer {
   padding: 0 150px;
 }
 
@@ -180,4 +181,16 @@ section {
 #cta .btn-signup {
   border: 2px solid #e5e7eb;
   align-self: center;
+}
+
+#footer {
+  background-color: #1f2937;
+}
+
+.copyright {
+  text-align: center;
+  color: #f9faf8;
+  font-size: 18px;
+  margin: 0;
+  padding: 50px;
 }
